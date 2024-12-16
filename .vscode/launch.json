@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<p1103demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.demo.DemoApplication",
+            "projectName": "p1103demo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JugtoursApplication<b1106denver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bm.denver.JugtoursApplication",
+            "projectName": "b1106denver",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeApplication<p1109employee>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bm.hr.EmployeeApplication",
+            "projectName": "p1109employee",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

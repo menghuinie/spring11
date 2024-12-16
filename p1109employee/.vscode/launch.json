@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeApplication<p1109employee>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bm.hr.EmployeeApplication",
+            "projectName": "p1109employee",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
