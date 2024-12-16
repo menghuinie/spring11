@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DenverApplication",
+            "request": "launch",
+            "mainClass": "com.bm.denver.DenverApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-DemoApplication<p1103demo>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
@@ -27,6 +34,16 @@
             "cwd": "${workspaceFolder}",
             "mainClass": "com.bm.hr.EmployeeApplication",
             "projectName": "p1109employee",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DenverApplication<b1106denver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bm.denver.DenverApplication",
+            "projectName": "b1106denver",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
