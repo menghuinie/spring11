@@ -11,7 +11,7 @@ public class DenverApplication {
 
 	@GetMapping("/hello")
 	public String check() {
-		return "8080 Hello World 1142denver";
+		return "8080 Hello World 1128denver";
 	}
 
 	@GetMapping("/")
